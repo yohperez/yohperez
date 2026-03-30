@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Yoh
+# 👋 Hola, soy Yohanna S. Perez
 
 ### ⚗️ Theoretical Chemist → 🤖 ML / Data Science Engineer
 
