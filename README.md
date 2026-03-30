@@ -62,9 +62,6 @@ yohanna = {
 |----------|-------------|-------|
 | 🔬 **Bandgap Predictor** | Predicción de bandgaps en semiconductores usando datos del Materials Project | `pymatgen` `scikit-learn` `pandas` |
 | 🎮 **SciQuiz Pro** | Juego de trivia científica en CLI con cobertura total de pytest | `Python` `pytest` `Colab` |
-| 🏥 **Hospital Triage System** | Sistema de triaje hospitalario con lógica de control de flujo | `Python` `Jupyter` |
-| 🤖 **Python Escape Room** | Juego educativo diagnóstico para bootcamp de Data Science | `Python` `OOP` |
-
 ---
 
 ## 📊 GitHub Stats
