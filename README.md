@@ -6,9 +6,9 @@
 
 *Convirtiendo simulaciones DFT en modelos de machine learning que escalan.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/TU_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/TU_USERNAME)
-[![Location](https://img.shields.io/badge/📍_Valencia,_España-FF6B6B?style=for-the-badge)](https://github.com/TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yseminovski)
+[![GitHub followers](https://img.shields.io/github/followers/yohperez?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/yohperez)
+[![Location](https://img.shields.io/badge/📍_Madrid,_España-FF6B6B?style=for-the-badge)](https://github.com/yohperez)
 
 </div>
 
