@@ -78,15 +78,16 @@ yohanna = {
 
 ## 🌱 Actualmente aprendiendo
 
+- 🧠 Python en el bootcamp AI4inclusion
 - 🧠 **Graph Neural Networks** para propiedades de materiales (Open Catalyst)
 - 📦 **MLOps** — pipelines, versionado de modelos, despliegue
 - 🔗 **APIs de ciencia de materiales** — Materials Project, AFLOW, NOMAD
 
 ---
 
-## 🎯 Objetivo 2025
+## 🎯 Objetivo 2026
 
-> Combinar mi PhD en química computacional con ML moderno para trabajar en **energía limpia, materiales avanzados o I+D industrial** — en empresas como Repsol, Iberdrola, Orbital Materials o centros como el CSIC / NREL.
+> Terminar el bootcamp AI4inclusion para poder combinar mi PhD en química computacional con ML moderno para trabajar en **energía limpia, materiales avanzados o I+D industrial**  — en empresas como Repsol, Iberdrola, Orbital Materials o centros como el CSIC / NREL.
 
 ---
 
@@ -94,8 +95,8 @@ yohanna = {
 
 ¿Trabajamos juntos? Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yseminovski)
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail)](mailto:yohperez@gmail.com)
 
 ---
 
@@ -103,6 +104,6 @@ yohanna = {
 
 *"La simulación de hoy es el material del mañana."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=yohperez&color=blueviolet&style=flat-square)
 
 </div>
