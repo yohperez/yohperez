@@ -19,11 +19,11 @@
 Soy químico teórico con PhD y fondo en **ciencia computacional de materiales** — DFT, VASP, estructura electrónica de semiconductores y catálisis heterogénea. Ahora en plena transición hacia **Data Science & ML aplicado a materiales y energía**, con el objetivo de llevar ese conocimiento a la industria.
 
 ```python
-yoh = {
+yohanna = {
     "background":   ["Química Teórica · PhD", "DFT / VASP", "Catálisis Heterogénea"],
     "aprendiendo":  ["ML for Materials", "Deep Learning", "MLOps"],
-    "bootcamp":     "SomosF5 / AI4Inclusion · 1250h · 2024–2025",
-    "ubicación":    "Valencia 🇪🇸  |  conexiones en Madrid & La Habana 🇨🇺",
+    "bootcamp":     "SomosF5 / AI4Inclusion · 1250h · 2026",
+    "ubicación":    "Madrid 🇪🇸 ",
     "idiomas":      ["Español 🇪🇸", "English 🇬🇧", "Português 🇧🇷", "Français 🇫🇷"],
 }
 ```
